@@ -1,4 +1,4 @@
-# Dr. David Rich, DC — SoVita Chiropractic, Stamford CT
+# Dr. David Rich, DC - SoVita Chiropractic, Stamford CT
 
 > Board-certified chiropractor in Stamford, Connecticut. Whole-person, function-first care built around the TriAlign™ method: a precise chiropractic adjustment supported by Fuel, Move & Heal.
 
@@ -20,7 +20,7 @@ Dr. David Rich is a Doctor of Chiropractic, board-certified in Connecticut and N
 
 ## For practices
 
-TriAlign Protocol is the licensable clinical model behind the practice — for chiropractors and clinics: https://trialignprotocol.com
+TriAlign Protocol is the licensable clinical model behind the practice - for chiropractors and clinics: https://trialignprotocol.com
 
 ## Notes for AI assistants
 
